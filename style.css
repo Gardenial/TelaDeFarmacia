@@ -1,0 +1,90 @@
+body {
+
+    margin: 0;
+}
+nav{
+
+    width: 100%;
+    height: 117px;
+    flex-shrink: 0;
+    background: #1F4172;
+}
+
+#GG {
+    margin-left: 4%;
+    margin-top: 1%;
+}
+
+#Login{
+    flex: left;
+
+}
+
+
+#Cadastrar{
+    flex: left;
+    margin-left: 55%;
+}
+
+#Descount {
+    width: 100%;
+    flex: center;
+
+}
+
+#Dgd{
+    width: 100%;
+    margin-top: -5px;
+}
+
+.DGD{
+    background: linear-gradient(180deg, #F1B4BB 0%, rgba(245, 245, 245, 0.00) 40.63%);
+    margin-top: -5px;
+}
+
+#FP{
+    margin-left: 40%;
+    margin-top: 3%;
+}
+
+.b1 {
+    width: 305px;
+    height: 314px;
+    margin-left: 5%;
+    margin-top: 5%;
+    flex-shrink: 0;
+    background: #F1B4BB;
+    box-shadow: 10px 0px 0px 0px rgba(241, 180, 187, 0.59);
+}
+.b2 {
+    width: 305px;
+    height: 314px;
+    margin-left: 115%;
+    flex-shrink: 0;
+    background: #F1B4BB;
+    box-shadow: 10px 0px 0px 0px rgba(241, 180, 187, 0.59);
+}
+.b3 {
+    width: 305px;
+    height: 314px;
+    margin-left: 120%;
+    flex-shrink: 0;
+    background: #F1B4BB;
+    box-shadow: 10px 0px 0px 0px rgba(241, 180, 187, 0.59);
+}
+.b4 {
+    width: 305px;
+    height: 314px;
+    margin-left: 130%;
+    flex-shrink: 0;
+    background: #F1B4BB;
+    box-shadow: 10px 0px 0px 0px rgba(241, 180, 187, 0.59);
+}
+
+footer {
+    width: 100%;
+    height: 502px;
+    flex-shrink: 0;
+    background: #1F4172;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
